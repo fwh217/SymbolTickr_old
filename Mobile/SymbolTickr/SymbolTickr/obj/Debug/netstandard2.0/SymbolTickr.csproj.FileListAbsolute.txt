@@ -1,7 +1,6 @@
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr/bin/Debug/netstandard2.0/SymbolTickr.deps.json
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr/bin/Debug/netstandard2.0/SymbolTickr.dll
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr/bin/Debug/netstandard2.0/SymbolTickr.pdb
-/Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr/obj/Debug/netstandard2.0/SymbolTickr.csprojResolveAssemblyReference.cache
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr/obj/Debug/netstandard2.0/SymbolTickr.csproj.CoreCompileInputs.cache
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr/obj/Debug/netstandard2.0/SymbolTickr.AssemblyInfoInputs.cache
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr/obj/Debug/netstandard2.0/SymbolTickr.AssemblyInfo.cs
