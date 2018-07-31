@@ -6,6 +6,7 @@
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr.Android/bin/Debug/SymbolTickr.pdb
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr.Android/obj/Debug/SymbolTickr.Android.csprojResolveAssemblyReference.cache
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr.Android/obj/Debug/SymbolTickr.Android.csproj.CoreCompileInputs.cache
+/Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr.Android/obj/Debug/XamlC.stamp
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr.Android/obj/Debug/SymbolTickr.Android.dll
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr.Android/obj/Debug/SymbolTickr.Android.pdb
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr.Android/obj/Debug/android/bin/FrankHogan.SymbolTickr.apk

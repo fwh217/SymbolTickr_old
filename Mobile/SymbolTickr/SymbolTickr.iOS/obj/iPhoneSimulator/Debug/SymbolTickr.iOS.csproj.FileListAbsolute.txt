@@ -45,6 +45,7 @@
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr.iOS/bin/iPhoneSimulator/Debug/SymbolTickr.pdb
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr.iOS/obj/iPhoneSimulator/Debug/SymbolTickr.iOS.csprojResolveAssemblyReference.cache
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr.iOS/obj/iPhoneSimulator/Debug/SymbolTickr.iOS.csproj.CoreCompileInputs.cache
+/Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr.iOS/obj/iPhoneSimulator/Debug/SymbolTickr.iOS.exe
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr.iOS/obj/iPhoneSimulator/Debug/SymbolTickr.iOS.pdb
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-11.4/ibtool/_BundleResourceWithLogicalName.items
