@@ -24,6 +24,10 @@ namespace SymbolTickr.Droid
 			global::Android.Runtime.ResourceIdManager.UpdateIdValues();
 		}
 		
+		public static void UpdateIdValues()
+		{
+		}
+		
 		public partial class Color
 		{
 			

@@ -2,10 +2,10 @@
 *~
 
 # build
-[Oo]bj/
-[Bb]in/
-packages/
-TestResults/
+[Oo]bj/*
+[Bb]in/*
+packages/*
+TestResults/*
 
 # globs
 Makefile.in
@@ -21,13 +21,13 @@ config.make
 config.status
 aclocal.m4
 install-sh
-autom4te.cache/
+autom4te.cache/*
 *.user
 *.tar.gz
-tarballs/
-test-results/
+tarballs/*
+test-results/*
 Thumbs.db
-.vs/
+.vs/*
 
 # Mac bundle stuff
 *.dmg

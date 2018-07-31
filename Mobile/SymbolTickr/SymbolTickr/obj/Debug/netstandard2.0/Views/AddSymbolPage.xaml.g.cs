@@ -13,7 +13,7 @@
 namespace SymbolTickr.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views/AddSymbolPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\AddSymbolPage.xaml")]
     public partial class AddSymbolPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
