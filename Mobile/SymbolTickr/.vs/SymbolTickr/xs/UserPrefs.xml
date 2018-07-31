@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{B033AD86-DE13-4334-B0A9-520A51A782B1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SymbolTickr/Views/ViewSymbolsPage.xaml">
+    <Files>
+      <File FileName="SymbolTickr/MainPage.xaml" Line="9" Column="33" />
+      <File FileName="SymbolTickr/MainPage.xaml.cs" Line="8" Column="22" />
+      <File FileName="SymbolTickr/Views/AddSymbolPage.xaml" Line="12" Column="26" />
+      <File FileName="SymbolTickr/Views/AddSymbolPage.xaml.cs" Line="11" Column="10" />
+      <File FileName="SymbolTickr/Views/ViewSymbolsPage.xaml" Line="11" Column="11" />
+      <File FileName="SymbolTickr/Views/ViewSymbolsPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="SymbolTickr/Views/CustomizePage.xaml" Line="6" Column="1" />
+      <File FileName="SymbolTickr/Views/CustomizePage.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SymbolTickr.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+</Properties>
