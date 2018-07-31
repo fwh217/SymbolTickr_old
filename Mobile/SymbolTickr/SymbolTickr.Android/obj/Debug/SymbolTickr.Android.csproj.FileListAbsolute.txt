@@ -142,6 +142,7 @@ C:\Users\fhogan\Documents\SymbolTickr\SymbolTickr\Mobile\SymbolTickr\SymbolTickr
 C:\Users\fhogan\Documents\SymbolTickr\SymbolTickr\Mobile\SymbolTickr\SymbolTickr.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\fhogan\Documents\SymbolTickr\SymbolTickr\Mobile\SymbolTickr\SymbolTickr.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
 C:\Users\fhogan\Documents\SymbolTickr\SymbolTickr\Mobile\SymbolTickr\SymbolTickr.Android\bin\Debug\SymbolTickr.Android.dll
+C:\Users\fhogan\Documents\SymbolTickr\SymbolTickr\Mobile\SymbolTickr\SymbolTickr.Android\obj\Debug\linksrc\SymbolTickr.pdb
 C:\Users\fhogan\Documents\SymbolTickr\SymbolTickr\Mobile\SymbolTickr\SymbolTickr.Android\obj\Debug\linksrc\SymbolTickr.Android.dll.mdb
 C:\Users\fhogan\Documents\SymbolTickr\SymbolTickr\Mobile\SymbolTickr\SymbolTickr.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
 C:\Users\fhogan\Documents\SymbolTickr\SymbolTickr\Mobile\SymbolTickr\SymbolTickr.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb

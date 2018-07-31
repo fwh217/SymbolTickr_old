@@ -1,0 +1,1 @@
+C:\Users\fhogan\Documents\SymbolTickr\SymbolTickr\Mobile\SymbolTickr\SymbolTickr.UWP\SymbolTickr.UWP.csproj;x86

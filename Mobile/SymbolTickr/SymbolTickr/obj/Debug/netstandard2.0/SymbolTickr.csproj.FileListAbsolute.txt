@@ -16,7 +16,6 @@
 C:\Users\fhogan\Documents\SymbolTickr\SymbolTickr\Mobile\SymbolTickr\SymbolTickr\bin\Debug\netstandard2.0\SymbolTickr.deps.json
 C:\Users\fhogan\Documents\SymbolTickr\SymbolTickr\Mobile\SymbolTickr\SymbolTickr\bin\Debug\netstandard2.0\SymbolTickr.dll
 C:\Users\fhogan\Documents\SymbolTickr\SymbolTickr\Mobile\SymbolTickr\SymbolTickr\bin\Debug\netstandard2.0\SymbolTickr.pdb
-C:\Users\fhogan\Documents\SymbolTickr\SymbolTickr\Mobile\SymbolTickr\SymbolTickr\obj\Debug\netstandard2.0\SymbolTickr.csprojAssemblyReference.cache
 C:\Users\fhogan\Documents\SymbolTickr\SymbolTickr\Mobile\SymbolTickr\SymbolTickr\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\fhogan\Documents\SymbolTickr\SymbolTickr\Mobile\SymbolTickr\SymbolTickr\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Users\fhogan\Documents\SymbolTickr\SymbolTickr\Mobile\SymbolTickr\SymbolTickr\obj\Debug\netstandard2.0\Views\AddSymbolPage.xaml.g.cs
@@ -28,3 +27,4 @@ C:\Users\fhogan\Documents\SymbolTickr\SymbolTickr\Mobile\SymbolTickr\SymbolTickr
 C:\Users\fhogan\Documents\SymbolTickr\SymbolTickr\Mobile\SymbolTickr\SymbolTickr\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\fhogan\Documents\SymbolTickr\SymbolTickr\Mobile\SymbolTickr\SymbolTickr\obj\Debug\netstandard2.0\SymbolTickr.dll
 C:\Users\fhogan\Documents\SymbolTickr\SymbolTickr\Mobile\SymbolTickr\SymbolTickr\obj\Debug\netstandard2.0\SymbolTickr.pdb
+C:\Users\fhogan\Documents\SymbolTickr\SymbolTickr\Mobile\SymbolTickr\SymbolTickr\obj\Debug\netstandard2.0\SymbolTickr.csprojAssemblyReference.cache
