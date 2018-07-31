@@ -1,8 +1,15 @@
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr/bin/Debug/netstandard2.0/SymbolTickr.deps.json
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr/bin/Debug/netstandard2.0/SymbolTickr.dll
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr/bin/Debug/netstandard2.0/SymbolTickr.pdb
+/Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr/obj/Debug/netstandard2.0/SymbolTickr.csprojResolveAssemblyReference.cache
+/Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr/obj/Debug/netstandard2.0/Views/AddSymbolPage.xaml.g.cs
+/Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr/obj/Debug/netstandard2.0/Views/CustomizePage.xaml.g.cs
+/Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr/obj/Debug/netstandard2.0/Views/ViewSymbolsPage.xaml.g.cs
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr/obj/Debug/netstandard2.0/SymbolTickr.csproj.CoreCompileInputs.cache
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr/obj/Debug/netstandard2.0/SymbolTickr.AssemblyInfoInputs.cache
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr/obj/Debug/netstandard2.0/SymbolTickr.AssemblyInfo.cs
+/Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr/obj/Debug/netstandard2.0/SymbolTickr.dll
 /Users/frankhogan/Documents/SymbolTickr_App/SymbolTickr/Mobile/SymbolTickr/SymbolTickr/obj/Debug/netstandard2.0/SymbolTickr.pdb

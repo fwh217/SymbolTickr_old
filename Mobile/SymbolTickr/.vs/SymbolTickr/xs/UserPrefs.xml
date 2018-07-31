@@ -1,7 +1,7 @@
-﻿<Properties StartupConfiguration="{0FC9108D-4070-4EFC-A0C3-D782DEABD540}|Default">
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{B033AD86-DE13-4334-B0A9-520A51A782B1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SymbolTickr/MainPage.xaml">
     <Files>
-      <File FileName="SymbolTickr/MainPage.xaml" Line="16" Column="14" />
+      <File FileName="SymbolTickr/MainPage.xaml" Line="3" Column="51" />
       <File FileName="SymbolTickr/MainPage.xaml.cs" Line="8" Column="22" />
       <File FileName="SymbolTickr/Views/AddSymbolPage.xaml" Line="16" Column="1" />
       <File FileName="SymbolTickr/Views/AddSymbolPage.xaml.cs" Line="11" Column="10" />

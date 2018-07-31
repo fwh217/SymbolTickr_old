@@ -345,7 +345,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "3.0.0.482510"
+          "Xamarin.Forms": "3.1.0.637273"
         },
         "compile": {
           "bin/placeholder/SymbolTickr.dll": {}
